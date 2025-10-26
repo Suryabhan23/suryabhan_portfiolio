@@ -30,3 +30,6 @@ Power Query
 
 <img width="891" height="400" alt="image" src="https://github.com/user-attachments/assets/ccd2bc91-ae44-4306-97dc-1bbe77514efe" />
 
+<img width="624" height="348" alt="image" src="https://github.com/user-attachments/assets/d2d18446-976a-4523-8727-6f2bb1335314" />
+
+
