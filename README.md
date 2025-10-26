@@ -27,3 +27,6 @@ Enable data-driven decisions for operational improvements
 Microsoft Power BI
 DAX
 Power Query
+
+<img width="891" height="400" alt="image" src="https://github.com/user-attachments/assets/ccd2bc91-ae44-4306-97dc-1bbe77514efe" />
+
